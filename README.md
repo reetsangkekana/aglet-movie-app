@@ -222,28 +222,4 @@ The application includes basic security practices:
 - SQL queries use prepared statements to reduce SQL injection risks.
 - Users can only view and modify their own favourites.
 
----
 
-# Future Improvements
-
-Possible future enhancements include:
-
-- Movie search functionality
-- User registration
-- Movie details page
-- Genre filtering
-- User profile management
-- Better error handling
-- AJAX for improved user experience
-
----
-
-# Author
-
-**Reetsang Kekana**
-
-PHP Full Stack Developer
-
-GitHub:
-
-https://github.com/reetsangkekana
