@@ -126,52 +126,7 @@ Click **Go**.
 
 ---
 
-### 5. Configure the database
-
-Open:
-
-```
-includes/db.php
-```
-
-Update the database settings if necessary.
-
-Example:
-
-```php
-$host = "localhost";
-$user = "root";
-$password = "";
-$database = "movie_app";
-```
-
----
-
-### 6. Configure the TMDb API
-
-Open:
-
-```
-config.php
-```
-
-Insert your own TMDb API key.
-
-Example:
-
-```php
-<?php
-
-$apiKey = "YOUR_API_KEY";
-```
-
-You can obtain an API key by creating an account at:
-
-https://www.themoviedb.org/
-
----
-
-### 7. Run the project
+6. Run the project
 
 Open your browser and navigate to:
 
