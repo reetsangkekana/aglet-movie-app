@@ -32,35 +32,16 @@ MySQL
 
 MySQL was selected because it provides a simple and efficient way to store user accounts and favourite movie information. It integrates seamlessly with PHP and is easy to manage using phpMyAdmin.
 
-### Bootstrap
+Bootstrap
 
 Bootstrap was used to create a responsive and consistent user interface without writing large amounts of custom CSS. This helped produce a professional-looking application that works across different screen sizes.
 
-### TMDb API
+TMDb API
 
 The Movie Database (TMDb) API provides reliable movie information, including titles, posters, release dates and other metadata. Using the API allowed the application to display real-time movie information without maintaining a local movie database.
-
-### Git & GitHub
-
-Git was used for version control, while GitHub was used to host the project and track changes. This follows standard software development practices and makes the project easy to share and review.
-
 ---
 
-# Project Features
-
-- Secure user login
-- Browse popular movies
-- Responsive movie cards
-- Pagination
-- Add movies to favourites
-- View favourite movies
-- Remove favourites
-- Contact page
-- Responsive Bootstrap layout
-
----
-
-# Project Structure
+Project Structure
 
 ```
 aglet-movie-app/
@@ -80,9 +61,9 @@ README.md
 
 ---
 
-# Setup Instructions
+Setup Instructions
 
-## Requirements
+Requirements
 
 - PHP 8 or later
 - MySQL
@@ -92,7 +73,7 @@ README.md
 
 ---
 
-## Installation
+Installation
 
 ### 1. Clone the repository
 
